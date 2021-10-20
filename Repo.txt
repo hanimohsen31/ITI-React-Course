@@ -1,6 +1,5 @@
 https://github.com/hanimohsen31/PythonITIReactCourse.git
-https://github.com/hanimohsen31/PythonITIReactCourse.git
-PythonITIReactCourse
+
 --------------------------------------------
 …or create a new repository on the command line
 
