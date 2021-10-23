@@ -1,5 +1,8 @@
 ./Repo.text
 ./New Text Document.txt
+<<<<<<< HEAD
 
 repo.text
 New Text Document.txt
+=======
+>>>>>>> adbf1d71166936f0d3a2ba01cddda664ba2060f6
